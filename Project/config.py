@@ -35,7 +35,7 @@ START = """
 """
 
 GIT_HUB_KEY = """GIT HUB"""
-GIT_HUB_VALUE = """https://github.com/nafo_61"""
+GIT_HUB_VALUE = """https://github.com/Rigina-18/TelegramBot"""
 
 TRANS_KEY = """💰 ПЕРЕВОД ДЕНЕГ 💰"""
 
